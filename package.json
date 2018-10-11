@@ -20,5 +20,13 @@
   "devDependencies": {
     "nodemon": "^1.18.4"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxivreal/smart-brain-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxivreal/smart-brain-api/issues"
+  },
+  "homepage": "https://github.com/fxivreal/smart-brain-api#readme"
 }
